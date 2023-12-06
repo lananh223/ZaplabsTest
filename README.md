@@ -13,7 +13,7 @@ The API example: https://jsonplaceholder.typicode.com/
   * MVVM Design
   * RecyclerView
   * Library: Retrofit, Gson, Glide
-  * Jetpeck Component: Coroutines, LiveData
+  * Jetpack Component: Coroutines, LiveData
   * UI Design: ConstraintLayout, LinearLayout
 
 # Contact Me!
