@@ -9,10 +9,11 @@ The API example: https://jsonplaceholder.typicode.com/
 
 # Technical Concepts
 
-  * Activity
-  * MVC Design
+  * Activity & Fragment
+  * MVVM Design
   * RecyclerView
-  * Retrofit, Gson
+  * Library: Retrofit, Gson, Glide
+  * Jetpeck Component: Coroutines, LiveData
   * UI Design: ConstraintLayout, LinearLayout
 
 # Contact Me!
